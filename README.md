@@ -64,6 +64,6 @@ cd cardapio-digital
 instalar uma extensão live server e no options do mouse clicar no "Open the live server"
 
 ```
-Contexto Acadêmico
+## Contexto Acadêmico
 
 Este projeto foi desenvolvido como parte do Projeto Integrador do curso de Bacharelado em Tecnologia da Informação, com foco na criação de soluções tecnológicas aplicadas a problemas reais.
