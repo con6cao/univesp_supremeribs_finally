@@ -67,3 +67,8 @@ instalar uma extensão live server e no options do mouse clicar no "Open the liv
 ## Contexto Acadêmico
 
 Este projeto foi desenvolvido como parte do Projeto Integrador do curso de Bacharelado em Tecnologia da Informação, com foco na criação de soluções tecnológicas aplicadas a problemas reais.
+
+## Link
+- https://merry-centaur-9a57d8.netlify.app/  or
+- https://con6cao.github.io/univesp_supremeribs_finally/
+
