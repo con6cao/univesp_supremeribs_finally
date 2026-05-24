@@ -1,13 +1,18 @@
-# 📱 Cardápio Digital: Agilidade para Pequenos Negócios
+#  Cardápio Digital: Agilidade para Pequenos Negócios
 
 Projeto Integrador do curso de Bacharelado em Tecnologia da Informação.
 
-🎥 **Demonstração do projeto:**  
-https://youtu.be/P-eBi2Ls9f0
+ **Demonstração do projeto:**  
+ video:
+- https://youtu.be/P-eBi2Ls9f0
+  
+ site:
+- https://merry-centaur-9a57d8.netlify.app/  or
+- https://con6cao.github.io/univesp_supremeribs_finally/
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Cardápio Digital** é uma aplicação desenvolvida com o objetivo de modernizar a forma como pequenos negócios do setor alimentício apresentam seus produtos.
 
@@ -15,7 +20,7 @@ A solução permite substituir cardápios físicos por uma plataforma digital ac
 
 ---
 
-## 🎯 Problema Resolvido
+##  Problema Resolvido
 
 Pequenos estabelecimentos enfrentam desafios como:
 
@@ -28,17 +33,17 @@ Este projeto propõe uma solução digital simples, eficiente e de fácil acesso
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
-- 📋 Cadastro de produtos (pratos, bebidas e sobremesas)  
-- 📝 Descrição detalhada dos itens  
-- 💰 Definição de preços  
-- 👨‍💼 Área administrativa para gerenciamento  
-- 📲 Visualização simplificada para clientes  
+-  Cadastro de produtos (pratos, bebidas e sobremesas)  
+-  Descrição detalhada dos itens  
+-  Definição de preços  
+-  Área administrativa para gerenciamento  
+-  Visualização simplificada para clientes  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML**
 - **CSS**
@@ -46,7 +51,7 @@ Este projeto propõe uma solução digital simples, eficiente e de fácil acesso
 
 ---
 
-## 📦 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 - IDE (Visual Studio Code, Xcode e etc)
@@ -68,7 +73,4 @@ instalar uma extensão live server e no options do mouse clicar no "Open the liv
 
 Este projeto foi desenvolvido como parte do Projeto Integrador do curso de Bacharelado em Tecnologia da Informação, com foco na criação de soluções tecnológicas aplicadas a problemas reais.
 
-## Link
-- https://merry-centaur-9a57d8.netlify.app/  or
-- https://con6cao.github.io/univesp_supremeribs_finally/
 
